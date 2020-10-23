@@ -24,3 +24,7 @@ A company has been given a large project with several complex features. These fe
 # Relation to SCRUM and Agile
 User and Epic Stories fit in with Agile as they are a part of the Agile approach. Epic Stories are large tasks which are then broken into user stories. A user story is the smallest unit of work and fit well into the Scrum framework which is typically used to accomplish Agile methodology. The practice of condensing a user story into an index card or sticky note (or online alternative) allows the user story to easily transition between product backlog and sprint backlog where they can be added as an activity to be completed within a given sprint. 
 
+# References
+[Reference 1](https://www.mountaingoatsoftware.com/agile/user-stories)
+[Reference 2](https://www.atlassian.com/agile/project-management/epics-stories-themes)
+
